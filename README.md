@@ -12,11 +12,12 @@
 5. [分号](https://github.com/liupzmin/effective-go-zh/blob/main/5.Semicolons.md)
 6. [控制结构](https://github.com/liupzmin/effective-go-zh/blob/main/6.ControlStructures.md)
 6. [函数](https://github.com/liupzmin/effective-go-zh/blob/main/7.Functions.md)
-6. 数据
-6. 初始化
-6. 接口和其它类型
-6. 空白标识符
-6. 内嵌
-6. 并发
-6. 错误
-6. 一个 web 服务
+6. [数据](https://github.com/liupzmin/effective-go-zh/blob/main/8.Data.md)
+6. [初始化](https://github.com/liupzmin/effective-go-zh/blob/main/9.Initialization.md)
+10. [方法](https://github.com/liupzmin/effective-go-zh/blob/main/10.Methods.md)
+11. [接口和其它类型](https://github.com/liupzmin/effective-go-zh/blob/main/11.Interfaces-and-other-types.md)
+12. 空白标识符
+13. 内嵌
+14. 并发
+15. 错误
+16. 一个 web 服务
