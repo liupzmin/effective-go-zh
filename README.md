@@ -5,18 +5,18 @@
 
 
 
-1. [介绍](https://github.com/liupzmin/effective-go-zh/blob/main/1.Introduction.md)
-2. [格式化](https://github.com/liupzmin/effective-go-zh/blob/main/2.Formatting.md)
-3. [注释](https://github.com/liupzmin/effective-go-zh/blob/main/3.Commentary.md)
-4. [命名](https://github.com/liupzmin/effective-go-zh/blob/main/4.Names.md)
-5. [分号](https://github.com/liupzmin/effective-go-zh/blob/main/5.Semicolons.md)
-6. [控制结构](https://github.com/liupzmin/effective-go-zh/blob/main/6.ControlStructures.md)
-6. [函数](https://github.com/liupzmin/effective-go-zh/blob/main/7.Functions.md)
-6. [数据](https://github.com/liupzmin/effective-go-zh/blob/main/8.Data.md)
-6. [初始化](https://github.com/liupzmin/effective-go-zh/blob/main/9.Initialization.md)
+1. [介绍](https://github.com/liupzmin/effective-go-zh/blob/main/01.Introduction.md)
+2. [格式化](https://github.com/liupzmin/effective-go-zh/blob/main/02.Formatting.md)
+3. [注释](https://github.com/liupzmin/effective-go-zh/blob/main/03.Commentary.md)
+4. [命名](https://github.com/liupzmin/effective-go-zh/blob/main/04.Names.md)
+5. [分号](https://github.com/liupzmin/effective-go-zh/blob/main/05.Semicolons.md)
+6. [控制结构](https://github.com/liupzmin/effective-go-zh/blob/main/06.ControlStructures.md)
+6. [函数](https://github.com/liupzmin/effective-go-zh/blob/main/07.Functions.md)
+6. [数据](https://github.com/liupzmin/effective-go-zh/blob/main/08.Data.md)
+6. [初始化](https://github.com/liupzmin/effective-go-zh/blob/main/09.Initialization.md)
 10. [方法](https://github.com/liupzmin/effective-go-zh/blob/main/10.Methods.md)
 11. [接口和其它类型](https://github.com/liupzmin/effective-go-zh/blob/main/11.Interfaces-and-other-types.md)
-12. 空白标识符
+12. [空白标识符](https://github.com/liupzmin/effective-go-zh/blob/main/11.Interfaces-and-other-types.md)
 13. 内嵌
 14. 并发
 15. 错误
