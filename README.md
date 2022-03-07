@@ -16,8 +16,8 @@
 6. [初始化](https://github.com/liupzmin/effective-go-zh/blob/main/09.Initialization.md)
 10. [方法](https://github.com/liupzmin/effective-go-zh/blob/main/10.Methods.md)
 11. [接口和其它类型](https://github.com/liupzmin/effective-go-zh/blob/main/11.Interfaces-and-other-types.md)
-12. [空白标识符](https://github.com/liupzmin/effective-go-zh/blob/main/11.Interfaces-and-other-types.md)
-13. 内嵌
+12. [空白标识符](https://github.com/liupzmin/effective-go-zh/blob/main/12.The-blank-identifier.md)
+13. [内嵌](https://github.com/liupzmin/effective-go-zh/blob/main/13.Embedding.md)
 14. 并发
 15. 错误
 16. 一个 web 服务
