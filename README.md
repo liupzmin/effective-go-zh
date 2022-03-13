@@ -18,6 +18,6 @@
 11. [接口和其它类型](https://github.com/liupzmin/effective-go-zh/blob/main/11.Interfaces-and-other-types.md)
 12. [空白标识符](https://github.com/liupzmin/effective-go-zh/blob/main/12.The-blank-identifier.md)
 13. [内嵌](https://github.com/liupzmin/effective-go-zh/blob/main/13.Embedding.md)
-14. 并发
+14. [并发](https://github.com/liupzmin/effective-go-zh/blob/main/14.Concurrency.md)
 15. 错误
 16. 一个 web 服务
