@@ -1,7 +1,7 @@
 # effective-go-zh
-**effective go 中文版** 是我个人的文档轮子。为了帮助需要的人准确理解原文，特采纳中英双语格式。目前翻译在有条不紊地进行，互联网上已有 `effective go ` 的中文版，之所以再进行翻译，是为了锻炼自己的英文理解与翻译水平，同时也能磨砺中文的语言组织能力，更是为了把 go 语言的基础夯实。
+**effective go 中文版** 是我个人的文档轮子。为了帮助需要的人准确理解原文，特采纳中英双语格式。目前翻译初稿已经完成，互联网上已有 `effective go ` 的中文版，之所以再进行翻译，是为了锻炼自己的英文理解与翻译水平，同时也能磨砺中文的语言组织能力，更是为了把 go 语言的基础夯实。
 
-希望所有有兴趣的伙伴都能参与进来，如果我的理解有疏漏讹误之处，欢迎提交 `issue` 或者 `pr`，我想我会及时处理。ok， that's all！
+希望所有有兴趣的伙伴都能参与进来，如果我的理解有疏漏讹误之处，欢迎提交 `issue` 或者 `pr`，我定我会及时处理。
 
 
 
@@ -20,4 +20,4 @@
 13. [内嵌](https://github.com/liupzmin/effective-go-zh/blob/main/13.Embedding.md)
 14. [并发](https://github.com/liupzmin/effective-go-zh/blob/main/14.Concurrency.md)
 15. [错误](https://github.com/liupzmin/effective-go-zh/blob/main/15.Errors.md)
-16. 一个 web 服务
+16. [一个 web 服务]((https://github.com/liupzmin/effective-go-zh/blob/main/16.A-WebServer.md))
