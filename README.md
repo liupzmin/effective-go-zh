@@ -20,4 +20,4 @@
 13. [内嵌](https://github.com/liupzmin/effective-go-zh/blob/main/13.Embedding.md)
 14. [并发](https://github.com/liupzmin/effective-go-zh/blob/main/14.Concurrency.md)
 15. [错误](https://github.com/liupzmin/effective-go-zh/blob/main/15.Errors.md)
-16. [一个 web 服务]((https://github.com/liupzmin/effective-go-zh/blob/main/16.A-WebServer.md))
+16. [一个 web 服务](https://github.com/liupzmin/effective-go-zh/blob/main/16.A-WebServer.md)
