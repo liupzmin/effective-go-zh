@@ -6,9 +6,9 @@
 
 互联网上已有 `effective go ` 的中文版，甚至还不止一版，那为什么还要再造这个轮子呢？首先，我个人的初衷是为了锻炼自己的英文理解与翻译水平，同时也能磨砺中文的语言组织能力，更是为了把 go 语言的基础夯实。
 
-其次呢，我在读第一遍英文时，碰到有疑问的地方在中文版里往往得不到想要的答案，后来自己思考也解决了一些疑惑，有些问题呢是出自翻译的问题，比如最后一章有一句话：*The program here provides a nicer interface to one form of data: given a short piece of text, it calls on the chart server to produce a QR code, a matrix of boxes that encode the text.*
+其次，我初次读英文原文时，碰到有疑问的地方在中文版里往往得不到想要的答案，后来通过自己思考也解决了一些疑惑，有些问题是出自翻译的问题，比如最后一章有一句话：*The program here provides a nicer interface to one form of data: given a short piece of text, it calls on the chart server to produce a QR code, a matrix of boxes that encode the text.*
 
-冒号之后的内容姑且不论，它是对 `a nicer interface` 的详细阐述。我们看前半句中的 `one form of data` 到底指指什么？从字面意思看，或者由翻译软件翻译的话意思应该是：**一种数据类别**。我所见的两个翻译版本分别翻译成了 **一种数据格式** 和 **某种形式的数据**，可见就是照字面翻译，只是为了语句通顺问题，各自进行了调整。但即便是进行了调整，整个句子依然说不通，**此程序为一种数据格式提供了更好的的接口** 其意几何呢？
+冒号之后的内容姑且不论，它是对 `a nicer interface` 的详细阐述。我们看前半句中的 `one form of data` 到底指什么？从字面意思看，或者由翻译软件翻译的话意思应该是：**一种数据类别**。我所见的两个翻译版本分别翻译成了 **一种数据格式** 和 **某种形式的数据**，可见就是照字面翻译，只是为了语句通顺问题，各自进行了调整。但即便是进行了调整，整个句子依然说不通，**此程序为一种数据格式提供了更好的的接口** 其意几何呢？
 
 其实，下文中文档便给出了详细代码，html 的代码中有一个输入表单。我们知道 form 不仅有**形式、类别、种类**的意思，还具有**表格**的意思，并且在前端领域我们习惯于术语**表单**。所以此处分明是**一个数据的表单**之意！再者说，form 之前使用了数量词 `one` 而非定冠词 `a` ，我认为这是另一条佐证，这句话的本意是：**本程序为表单数据提供了更加友好的接口**。
 
